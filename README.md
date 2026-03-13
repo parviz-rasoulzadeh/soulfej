@@ -33,7 +33,10 @@ The Soulfej architecture consists of five major layers:
 
 5. Reinforcement Learning Feedback  
    User interaction (skip, like/dislike, mood adjustment) continuously improves the model.
+   
+## Architecture Diagram
 
+![Soulfej Architecture](architecture/soulfej_architecture.png)
 ---
 
 ## Project Structure
