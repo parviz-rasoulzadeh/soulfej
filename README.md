@@ -39,15 +39,10 @@ The Soulfej architecture consists of five major layers:
 ## Project Structure
 soulfej
 ├── architecture
-│ └── soulfej_architecture.png
 ├── research
-│ └── paper.pdf
 ├── prototype
-│ └── emotion_to_music_demo.py
 ├── demo
-│ └── example_output.mp3
 └── README.md
-
 ---
 
 ## Applications
