@@ -36,7 +36,7 @@ The Soulfej architecture consists of five major layers:
    
 ## Architecture Diagram
 
-![Soulfej Architecture](architecture/soulfej_architecture.png)
+![Soulfej Architecture](soulfej_architecture.png)
 ---
 
 ## Project Structure
