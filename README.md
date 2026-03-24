@@ -82,6 +82,10 @@ The theoretical foundation of Soulfej is described in the accompanying research 
 
 Try the Soulfej AI prototype:
 
+## Demo Note
+
+This prototype focuses on validating the architecture and multimodal emotional inference pipeline, rather than producing production-level music outputs.
+
 [Launch Live Demo](https://soulfej-ydz35dpqrb9jyfidxce59u.streamlit.app/)
 
 ---
