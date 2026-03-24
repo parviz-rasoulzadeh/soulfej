@@ -74,6 +74,15 @@ soulfej/
 
 The theoretical foundation of Soulfej is described in the accompanying research paper.
 
+https://ijaem.net/issue_dcp/A%20Unified%20Multimodal%20Emotional%20Mediation%20Framework%20for%20Adaptive%20Music%20Generation%20in%20Human%20AI%20Interaction.pdf
+---
+
+## Live Demo
+
+Try the Soulfej AI prototype:
+
+https://soulfej-ydz35dpqrb9jyfidxce59u.streamlit.app/
+
 ---
 
 ## Author
